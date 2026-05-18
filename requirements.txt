@@ -1,0 +1,18 @@
+numpy 
+pandas 
+matplotlib 
+seaborn 
+opencv-python 
+scikit-image 
+scikit-learn 
+tensorflow
+lime
+tqdm
+plotly
+tensorflow-hub
+
+
+# pip install "setuptools<82" --force-reinstall
+
+#for HTML rendering in Jupyter notebooks
+# python -m pip install -U nbconvert nbclient nbformat jupyter
