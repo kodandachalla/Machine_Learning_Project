@@ -10,6 +10,7 @@ lime
 tqdm
 plotly
 tensorflow-hub
+imutils
 
 
 # pip install "setuptools<82" --force-reinstall

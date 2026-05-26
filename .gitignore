@@ -1,1 +1,4 @@
 .venv
+best_resnet50_model.h5
+best_cnn_model_v2.h5
+best_cnn_model.h5
