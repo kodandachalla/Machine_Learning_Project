@@ -13,7 +13,9 @@ tensorflow-hub
 imutils
 
 
-# pip install "setuptools<82" --force-reinstall
+# Python 3.12.9 supports tensorflow 2.14
 
 #for HTML rendering in Jupyter notebooks
 # python -m pip install -U nbconvert nbclient nbformat jupyter
+
+# pip install "setuptools<82" --force-reinstall
